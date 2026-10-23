@@ -15,7 +15,7 @@ Academic Information
 
 | Assignment | Topic | Status |
 |---|---|---|
-| [TP01](TP01-Introduction-to-PyTorch/) | Introduction to PyTorch | Completed |
+| [TP01](TP01-Introduction-to-PyTorch/I4_AMS_DAS_B_AI_SAKPHEAPANCHARITH.ipynb) | Introduction to PyTorch | Completed |
 
 Technologies
 
