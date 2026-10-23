@@ -1,6 +1,6 @@
-Artificial Intelligence — TP
+## Artificial Intelligence — TP
 
-Welcome to my Artificial Intelligence TP repository.
+# Welcome to my Artificial Intelligence TP repository.
 
 This repository documents my TP assignments, implementations, and experiments throughout the AI course.
 
