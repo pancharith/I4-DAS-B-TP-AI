@@ -1,8 +1,8 @@
-Artificial Intelligence — Practical Work
+Artificial Intelligence — TP
 
-Welcome to my Artificial Intelligence practical work repository.
+Welcome to my Artificial Intelligence TP repository.
 
-This repository documents my practical assignments, implementations, and experiments throughout the AI course.
+This repository documents my TP assignments, implementations, and experiments throughout the AI course.
 
 Academic Information
 
@@ -11,7 +11,7 @@ Academic Information
 * Program: Data Science
 * Academic Year: 2026–2027
 
-## Practical Assignments
+## Assignments
 
 | Assignment | Topic | Status |
 |---|---|---|
