@@ -1,6 +1,6 @@
 ## Artificial Intelligence — TP
 
-# Welcome to my Artificial Intelligence TP repository.
+### Welcome to my Artificial Intelligence TP repository.
 
 This repository documents my TP assignments, implementations, and experiments throughout the AI course.
 
@@ -28,10 +28,10 @@ Repository Structure
 
 Each practical assignment is organized into its own directory, containing the relevant notebooks and supporting documentation.
 
-Author
+#### Author
 
-Sakpheaancharith SUM – Data Science Student
+#### Sakpheaancharith SUM – Data Science Student
 
-Department of Applied Mathematics and Statistics
+#### Department of Applied Mathematics and Statistics
 
-Institute of Technology of Cambodia
+#### Institute of Technology of Cambodia
