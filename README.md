@@ -14,8 +14,10 @@ Academic Information
 ## Assignments
 
 | Assignment | Topic | Status |
-|---|---|---|
-| [TP01](TP01-Introduction-to-PyTorch/I4_AMS_DAS_B_AI_SAKPHEAPANCHARITH.ipynb) | Introduction to PyTorch | Completed |
+|:---|:---|:---|
+| [TP01](./TP01-Introduction-to-PyTorch/) | Introduction to PyTorch | Completed |
+| [TP02](./TP02-Deep-Neural-Network/) | Deep Neural Network | Completed |
+| [TP03](./TP03/) | Practical Assignment 03 | Upcoming |
 
 Technologies
 
