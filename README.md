@@ -17,7 +17,9 @@ Academic Information
 |:---|:---|:---|
 | [TP01](./TP01-Introduction-to-PyTorch/) | Introduction to PyTorch | Completed |
 | [TP02](./TP02-Deep-Neural-Network/) | Deep Neural Network | Completed |
-| [TP03](./TP03/) | Practical Assignment 03 | Upcoming |
+| [TP03](./TP03/) | Initialization_Regularization | Completed |
+| [TP04](./TP04/) | Optimization | Completed |
+| [TP05]|  | Upcoming |
 
 Technologies
 
